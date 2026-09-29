@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://logist888.github.io/max2/sitemap.xml
